@@ -4,6 +4,18 @@
   "description": "☀️ solarpunk theme for VSCode",
   "version": "0.0.1",
   "publisher": "symmetrysyndicate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SymmetrySyndicate/solarpunk-vscode"
+  },
+  "keywords": [
+    "theme",
+    "symmetry",
+    "solarpunk",
+    "color theme",
+    "solarpunk theme",
+    "symmetry syndicate"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
