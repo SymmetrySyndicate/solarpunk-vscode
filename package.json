@@ -1,0 +1,22 @@
+{
+  "name": "solarpunk",
+  "displayName": "solarpunk",
+  "description": "☀️ solarpunk theme for VSCode",
+  "version": "0.0.1",
+  "publisher": "symmetrysyndicate",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "solarpunk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarpunk-color-theme.json"
+      }
+    ]
+  }
+}
