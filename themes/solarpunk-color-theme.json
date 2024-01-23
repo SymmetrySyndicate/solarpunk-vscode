@@ -336,6 +336,9 @@
 			"scope": [
 				"punctuation.definition.comment.python",
 				"comment.line.number-sign.python",
+				"variable.parameter.function-call.python",
+				"meta.function-call.arguments.python",
+				"meta.function-call.python"
 			],
 			"settings": {
 				"foreground": "#79B8E2",
