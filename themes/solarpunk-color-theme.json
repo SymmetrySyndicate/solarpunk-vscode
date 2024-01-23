@@ -337,6 +337,7 @@
 				"punctuation.definition.comment.python",
 				"comment.line.number-sign.python",
 				"variable.parameter.function-call.python",
+				"variable.parameter.function.language.python",
 				"punctuation.separator.parameters.python",
 				"meta.function.parameters.python",
 				"meta.function-call.arguments.python",
