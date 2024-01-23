@@ -349,6 +349,17 @@
 		},
 		{
 			"scope": [
+				"variable.parameter.name.nix",
+				"punctuation.definition.function.nix",
+				"variable.parameter.function.1.nix",
+				"variable.parameter.function.4.nix",
+			],
+			"settings": {
+				"foreground": "#79B8E2",
+			}
+		},
+		{
+			"scope": [
 				"comment.line.number-sign.dockerfile",
 				"punctuation.definition.comment.makefile",
 				"comment.line.number-sign.makefile",
